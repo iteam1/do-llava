@@ -180,9 +180,17 @@
 
 [llava-repo](https://github.com/haotian-liu/LLaVA)
 
+[llava-page](https://llava-vl.github.io/)
+
 [llava-docs](https://github.com/haotian-liu/LLaVA/tree/main/docs)
 
 [llava-models_zoo](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)
+
+[llava-data](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)
+
+[LLaVA-Instruct-150K](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)
+
+[llava_v1_5_mix665k](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K/blob/main/llava_v1_5_mix665k.json)
 
 [llava-colab](https://github.com/camenduru/LLaVA-colab/tree/main)
 
