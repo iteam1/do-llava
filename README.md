@@ -20,6 +20,8 @@
 
 - Install additional packages for training cases
 
+            nvcc --version
+            sudo apt install nvidia-cuda-toolkit
             pip install -e ".[train]"
             pip install flash-attn --no-build-isolation
 
