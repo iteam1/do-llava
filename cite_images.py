@@ -8,7 +8,7 @@ import random
 import shutil
 
 # Init
-f = 0.01
+f = 0.005
 destintion_path = 'dst'
 json_path = sys.argv[1]
  
